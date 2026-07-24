@@ -7,7 +7,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: block;
-  src: url(https://fonts.gstatic.com/s/googlesymbols/v438/HhzZU5Ak9u-oMExPeInvcuEmPosC9zS3FYkFU68cPrjdKM1XMoDZlWmzc3IiWvF1SbxVhQidBnv_C_ar1J9g0sLBUv3G8taXmA.woff2) format('woff2');
+  src: url(https://fonts.gstatic.com/s/googlesymbols/v449/HhzZU5Ak9u-oMExPeInvcuEmPosC9zS3FYkFU68cPrjdKM1XMoDZlWmzc3IiWvF1SbxVhQidBnv_C_ar1J9g0sLBUv3G8taXmA.woff2) format('woff2');
 }
 
 .google-symbols {
